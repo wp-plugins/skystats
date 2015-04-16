@@ -12,39 +12,39 @@ A better WordPress dashboard with Google Analytics, Facebook Analytics and more.
 
 == Description ==
 
-[SkyStats Analytics Dashboard] (https://skystats.com) is an all-in-one business dashboard for WordPress. The SkyStats plugin will allow you to customize your WordPress dashboard by seamlessly integrating such business data as web analytics, social media, paid search, email, video, and other marketing channels into a single view.
+[SkyStats Analytics Dashboard](https://skystats.com) is an all-in-one business dashboard for WordPress. The SkyStats plugin will allow you to customize your WordPress dashboard by seamlessly integrating such business data as web analytics, social media, paid search, email, video, and other marketing channels into a single view.
 
 = Integrations =
 
-* Google Analytics
-    * Total Users
-    * Total Page Views
-    * Search Engine Visits
-    * Bounce Rate 
-    * Pages Per Visit
-    * Average Visit Duration
-    * And More
+**Google Analytics**
+* Total Users
+* Total Page Views
+* Search Engine Visits
+* Bounce Rate 
+* Pages Per Visit
+* Average Visit Duration
+* And More
 
-* Facebook
-    * Total Likes
-    * Total Reach
-    * Page Visits
-    * People Engaged
-    * Top Posts
-    * And More
+**Facebook**
+* Total Likes
+* Total Reach
+* Page Visits
+* People Engaged
+* Top Posts
+* And More
 
-* Coming Soon
-    * Twitter
-    * WordPress
-    * Google+
-    * Google Adwords
-    * YouTube
-    * MailChimp
-    * LinkedIn
-    * PayPal
-    * Campaign Monitor
-    * AWeber
-    * And More
+**Coming Soon**
+* Twitter
+* WordPress
+* Google+
+* Google Adwords
+* YouTube
+* MailChimp
+* LinkedIn
+* PayPal
+* Campaign Monitor
+* AWeber
+* And More
 
 = Features =
 
@@ -58,7 +58,7 @@ A better WordPress dashboard with Google Analytics, Facebook Analytics and more.
 
 = About =
 
-SkyStats is built with pride by [Thrive Internet Marketing] (http://thrivenetmarketing.com/).  Thrive is a WordPress web design and SEO agency with proven results.
+SkyStats is built with pride by [Thrive Internet Marketing](http://thrivenetmarketing.com/).  Thrive is a WordPress web design and SEO agency with proven results.
 
 == Installation ==
 
@@ -72,7 +72,7 @@ SkyStats is built with pride by [Thrive Internet Marketing] (http://thrivenetmar
 
 = Why do I need a SkyStats license key? =
 
-* In order to use this plugin, you have to provide a valid SkyStats license key. You can purchase a Free or Paid license key at [SkyStats.com] (https://skystats.com/#pricing) 
+* In order to use this plugin, you have to provide a valid SkyStats license key. You can purchase a Free or Paid license key at [SkyStats.com](https://skystats.com/#pricing) 
 
 == Screenshots ==
 
