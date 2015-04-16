@@ -5,8 +5,8 @@
 	Plugin URI: https://skystats.com
 	Description: A Better WordPress Dashboard.
 	Version: 0.2.3
-	Author: Thrive Internet Marketing
-	Author URI: http://thrivenetmarketing.com
+	Author: SkyStats
+	Author URI: https://skystats.com
 	License: GPLv2 or later
 	License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	Text Domain: skystats

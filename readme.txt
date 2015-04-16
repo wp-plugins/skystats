@@ -1,6 +1,6 @@
-=== SkyStats ===
-Contributors: Thrive Ideas
-URL: http://thriveideas.com
+﻿=== SkyStats ===
+Author: SkyStats
+URL: https://skystats.com
 Tags: skystats, stats, analytics, insights, dashboard, mashboard, google analytics, facebook, twitter, google+, youtube, mailchimp, linkedin, campaign monitor, paypal
 Requires at least: 3.0
 Tested up to: 4.2
@@ -15,8 +15,6 @@ A Better WordPress Dashboard
 SkyStats is an all-in-one business dashboard for WordPress. The SkyStats plugin will allow you to customize your WordPress dashboard by seamlessly integrating such business data as web analytics, social media, paid search, email, video, and other marketing channels into a single view.
 
 = Features =
-
-* WHITE LABEL BRANDING - Offer SkyStats to your clients using your own brand. Simply replace our logo with your own. Currently only available to premium license holders.
 
 * CUSTOMIZABLE MASHBOARD - Customize your overview screen to see the data that is most important to you.
 
