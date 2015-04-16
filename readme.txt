@@ -1,5 +1,5 @@
 ﻿=== SkyStats ===
-Author: SkyStats
+Contributors: SkyStats
 URL: https://skystats.com
 Tags: skystats, stats, analytics, insights, dashboard, mashboard, google analytics, facebook, twitter, google+, youtube, mailchimp, linkedin, campaign monitor, paypal
 Requires at least: 3.0
