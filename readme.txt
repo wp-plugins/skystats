@@ -1,30 +1,64 @@
-﻿=== SkyStats ===
+﻿=== SkyStats Analytics Dashboard ===
 Contributors: SkyStats
 URL: https://skystats.com
-Tags: skystats, stats, analytics, insights, dashboard, mashboard, google analytics, facebook, twitter, google+, youtube, mailchimp, linkedin, campaign monitor, paypal
+Tags: google, analytics dashboard, google analytics dashboard, google analytics widget, facebook insights, facebook analytics widget, facebook analytics dashboard, tracking, wpmu, multisite, skystats, stats, analytics, insights, admin, dashboard, mashboard, google analytics, facebook, twitter, google+, youtube, mailchimp, linkedin, campaign monitor, paypal, metrics, seo, marketing, reports, reporting
 Requires at least: 3.0
 Tested up to: 4.2
 Stable tag: 0.2.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A Better WordPress Dashboard
+A better WordPress dashboard with Google Analytics, Facebook Analytics and more. Track your website's performance and decide who sees the data with user roles.
 
 == Description ==
 
-SkyStats is an all-in-one business dashboard for WordPress. The SkyStats plugin will allow you to customize your WordPress dashboard by seamlessly integrating such business data as web analytics, social media, paid search, email, video, and other marketing channels into a single view.
+[SkyStats Analytics Dashboard] (https://skystats.com) is an all-in-one business dashboard for WordPress. The SkyStats plugin will allow you to customize your WordPress dashboard by seamlessly integrating such business data as web analytics, social media, paid search, email, video, and other marketing channels into a single view.
+
+= Integrations =
+
+* Google Analytics
+    * Total Users
+    * Total Page Views
+    * Search Engine Visits
+    * Bounce Rate 
+    * Pages Per Visit
+    * Average Visit Duration
+    * And More
+
+* Facebook
+    * Total Likes
+    * Total Reach
+    * Page Visits
+    * People Engaged
+    * Top Posts
+    * And More
+
+* Coming Soon
+    * Twitter
+    * WordPress
+    * Google+
+    * Google Adwords
+    * YouTube
+    * MailChimp
+    * LinkedIn
+    * PayPal
+    * Campaign Monitor
+    * AWeber
+    * And More
 
 = Features =
 
 * CUSTOMIZABLE MASHBOARD - Customize your overview screen to see the data that is most important to you.
-
 * TRACK PERFORMANCE - Never wonder again if your online marketing efforts are making a positive impact.
-
 * LEADING INTEGRATIONS - SkyStats integrates with the tools you already use and our list of integrations is growing!
-
 * INNOVATIVE DESIGN - We believe design matters, even when crunching statistics & numbers.
-
 * USER ROLES - Decide who gets to view SkyStats data and who doesn’t with user permissions.
+* FULLY TRANSLATABLE - Translate the plugin into your own language.
+* MULTISITE COMPATIBLE - Built from the ground up to be fully compatible within a multisite environment.
+
+= About =
+
+SkyStats is built with pride by [Thrive Internet Marketing] (http://thrivenetmarketing.com/).  Thrive is a WordPress web design and SEO agency with proven results.
 
 == Installation ==
 
@@ -38,7 +72,7 @@ SkyStats is an all-in-one business dashboard for WordPress. The SkyStats plugin 
 
 = Why do I need a SkyStats license key? =
 
-* In order to use this plugin, you have to provide a valid SkyStats license key. That's currently the only way you can use SkyStats.
+* In order to use this plugin, you have to provide a valid SkyStats license key. You can purchase a Free or Paid license key at [SkyStats.com] (https://skystats.com/#pricing) 
 
 == Screenshots ==
 
