@@ -8,7 +8,7 @@ Stable tag: 0.2.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A better WordPress dashboard with Google Analytics, Facebook Analytics and more. Track your website's performance and decide who sees the data with user roles.
+A better WordPress dashboard with Google Analytics, Facebook Analytics and more.
 
 == Description ==
 
