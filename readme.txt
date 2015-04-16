@@ -16,7 +16,7 @@ A better WordPress dashboard with Google Analytics, Facebook Analytics and more.
 
 = Integrations =
 
-**Google Analytics**
+* **Google Analytics**
 * Total Users
 * Total Page Views
 * Search Engine Visits
@@ -25,7 +25,7 @@ A better WordPress dashboard with Google Analytics, Facebook Analytics and more.
 * Average Visit Duration
 * And More
 
-**Facebook**
+* **Facebook**
 * Total Likes
 * Total Reach
 * Page Visits
@@ -33,7 +33,7 @@ A better WordPress dashboard with Google Analytics, Facebook Analytics and more.
 * Top Posts
 * And More
 
-**Coming Soon**
+* **Coming Soon**
 * Twitter
 * WordPress
 * Google+
