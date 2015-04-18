@@ -1,0 +1,8 @@
+.skystats-frequency {
+	height: 30px !important;
+	vertical-align: baseline !important;
+}
+
+#skystats-google-analytics-average-visit-duration-data-point {
+	margin-right: 10px;
+}
