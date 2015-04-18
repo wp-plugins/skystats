@@ -4,7 +4,7 @@ URL: https://skystats.com
 Tags: google, analytics dashboard, google analytics dashboard, google analytics widget, facebook insights, facebook analytics widget, facebook analytics dashboard, tracking, wpmu, multisite, skystats, stats, analytics, insights, admin, dashboard, mashboard, google analytics, facebook, twitter, google+, youtube, mailchimp, linkedin, campaign monitor, paypal, metrics, seo, marketing, reports, reporting
 Requires at least: 3.0
 Tested up to: 4.2
-Stable tag: 0.2.3
+Stable tag: 0.2.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -88,6 +88,11 @@ SkyStats is built with pride by [Thrive Internet Marketing](http://thrivenetmark
 4. Settings Page
 
 == Changelog ==
+
+= 0.2.4 - 18th April 2015 =
+* [CHANGE] Clicking 'SkyStats Pro' on the date range notice message on the Mashboard, or detail pages will now open a new tab, or a new window, instead of loading into the current tab/window.
+* [CHANGE] When clicking to opt in to vote from the Mashboard, you'll now be redirected to the settings page with the settings accordion section as the active section, without the need to manually select it.
+* [BUG] Fixes issue when trying to interact with certain integration's buttons under particular setups where there was a conflict with script dependencies.
 
 = 0.2.3 - 15th April 2015 =
 * [BUG] Fixed issue where you couldn't update the plugin if you're using a free license key.
