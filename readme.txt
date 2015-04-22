@@ -1,5 +1,5 @@
 ﻿=== SkyStats Analytics Dashboard ===
-Contributors: SkyStats, ThriveIdeas
+Contributors: SkyStats, thriveideas
 URL: https://skystats.com
 Tags: google, analytics dashboard, google analytics dashboard, google analytics widget, facebook insights, facebook analytics widget, facebook analytics dashboard, tracking, wpmu, multisite, skystats, stats, analytics, insights, admin, dashboard, mashboard, google analytics, facebook, twitter, google+, youtube, mailchimp, linkedin, campaign monitor, paypal, metrics, seo, marketing, reports, reporting
 Requires at least: 3.0
@@ -68,7 +68,7 @@ SkyStats is built with pride by [Thrive Internet Marketing](http://thrivenetmark
 
 == Installation ==
 
-1. From your WordPress dashboard go to Plugins -> Add New -> Upload Plugin and select the `skystats.zip` file from your computer.
+1. From your WordPress dashboard go to Plugins -> Add New -> Upload Plugin and select the `skystats.zip` file from your computer. If you don't see this option you may not have the proper user permissions. Please contact your web designer or web host and ask them to give you permissions to install and activate plugins or ask them to install SkyStats for you.
 2. Activate the plugin through the 'Plugins' menu in your WordPress administration dashboard.
 3. A SkyStats menu will appear at the top left of your WordPress dashboard menu.
 4. Go to SkyStats -> Settings, enter your license key and click `validate` (if you don't have a license key, visit https://skystats.com/#pricing to purchase a free, or premium, license key).
