@@ -1,4 +1,4 @@
-﻿=== SkyStats Analytics Dashboard ===
+﻿=== SkyStats - An All-In-One Business Intelligence Dashboard For Marketing Analytics ===
 Contributors: SkyStats, thriveideas
 URL: https://skystats.com
 Tags: ajax, google, analytics dashboard, google analytics dashboard, google analytics widget, facebook insights, facebook analytics widget, facebook analytics dashboard, tracking, wpmu, multisite, skystats, stats, analytics, insights, admin, dashboard, mashboard, google analytics, facebook, twitter, google+, youtube, mailchimp, linkedin, campaign monitor, paypal, metrics, seo, marketing, reports, reporting
@@ -8,7 +8,7 @@ Stable tag: 0.2.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A better WordPress dashboard with Google Analytics, Facebook Analytics and more.
+A better WordPress dashboard that integrates Google Analytics, Facebook Analytics and other marketing channels into a single business dashboard.
 
 == Description ==
 
