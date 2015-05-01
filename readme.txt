@@ -24,6 +24,7 @@ The Google Analytics dashboard provides the following features:
 
 1. The ability to sync your Google Analytics data with just one click.
 2. Provides a visual overview widget that includes key website statistics:
+
 * Total Users
 * Total Page Views
 * Search Engine Visits
@@ -36,10 +37,9 @@ The Google Analytics dashboard provides the following features:
 The Facebook Insights dashboard provides the following features:
 
 1. The ability to sync your Facebook data with just one click.
-
 2. Allows you to easily plot Total Likes and Total Reach for a specific date range.
-
 3. Provides a visual overview widget that includes key Facebook statistics:
+
 * Total Likes
 * Total Reach
 * Page Visits
