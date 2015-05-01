@@ -72,6 +72,7 @@ The Facebook Insights dashboard provides the following features:
 * MULTISITE COMPATIBLE - Built from the ground up to be fully compatible within a multisite environment.
 
 Take a test drive, but don’t miss out on these premium features when you upgrade.
+
 * Get access to more than 30 days of data.
 * Be able to whitelabel the dashboard.
 * Use the plugin on multiple sites.
