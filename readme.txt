@@ -16,11 +16,14 @@ A better WordPress dashboard that integrates Google Analytics, Facebook Analytic
 
 = Integrations =
 
-* Google Analytics
-* Facebook Insights
+* Google Analytics - Integrates Google Analytics to create a Google Analytics dashboard.
+* Facebook Insights - Integrates Facebook Insights to create a Facebook dashboard.
 
 = Google Analytics Integration =
+The Google Analytics dashboard provides the following features:
 
+1. The ability to sync your Google Analytics data with just one click.
+2. Provides a visual overview widget that includes key website statistics:
 * Total Users
 * Total Page Views
 * Search Engine Visits
@@ -30,7 +33,13 @@ A better WordPress dashboard that integrates Google Analytics, Facebook Analytic
 * And More
 
 = Facebook Insights Integration =
+The Facebook Insights dashboard provides the following features:
 
+1. The ability to sync your Facebook data with just one click.
+
+2. Allows you to easily plot Total Likes and Total Reach for a specific date range.
+
+3. Provides a visual overview widget that includes key Facebook statistics:
 * Total Likes
 * Total Reach
 * Page Visits
@@ -61,6 +70,13 @@ A better WordPress dashboard that integrates Google Analytics, Facebook Analytic
 * USER ROLES - Decide who gets to view SkyStats data and who doesn’t with user permissions.
 * FULLY TRANSLATABLE - Translate the plugin into your own language.
 * MULTISITE COMPATIBLE - Built from the ground up to be fully compatible within a multisite environment.
+
+Take a test drive, but don’t miss out on these premium features when you upgrade.
+* Get access to more than 30 days of data.
+* Be able to whitelabel the dashboard.
+* Use the plugin on multiple sites.
+* Get premium support.
+* Get pre-release notifications on new integrations.
 
 = About =
 
