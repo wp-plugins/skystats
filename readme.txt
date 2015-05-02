@@ -4,7 +4,7 @@ URL: https://skystats.com
 Tags: ajax, google, analytics dashboard, google analytics dashboard, google analytics widget, facebook insights, facebook analytics widget, facebook analytics dashboard, tracking, wpmu, multisite, skystats, stats, analytics, insights, admin, dashboard, mashboard, google analytics, facebook, twitter, google+, youtube, mailchimp, linkedin, campaign monitor, paypal, metrics, seo, marketing, reports, reporting
 Requires at least: 3.0
 Tested up to: 4.2
-Stable tag: 0.2.4
+Stable tag: 0.2.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -71,7 +71,8 @@ The Facebook Insights dashboard provides the following features:
 * FULLY TRANSLATABLE - Translate the plugin into your own language.
 * MULTISITE COMPATIBLE - Built from the ground up to be fully compatible within a multisite environment.
 
-Take a test drive, but don’t miss out on these premium features when you upgrade.
+Take a test drive, but don’t miss out on these premium features when you upgrade:
+
 
 * Get access to more than 30 days of data.
 * Be able to whitelabel the dashboard.
