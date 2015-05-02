@@ -1,0 +1,420 @@
+/*
+    This file's CSS is used on the Mashboard page ONLY.
+
+    Note: properties are defined in alphabetical order.
+*/
+
+#skystats-default-logo {
+	margin-left: 20px;
+}
+
+#skystats-date-range-container {
+	margin-left: 0;
+	overflow: hidden;
+}
+
+#skystats-start-date-container {
+	display: none;
+	float: left;
+	text-align: right;
+	width: 50%;
+}
+
+#skystats-end-date-container {
+	display: none;
+	float: left;
+	margin-left: 20px;
+	text-align: left;
+}
+
+.skystats-card-columns-container {
+	margin-top: 20px;
+	overflow: hidden;
+}
+
+.skystats-card-error-container {
+	display: none;
+	margin-bottom: 15px;
+}
+
+/*
+    Loading
+*/
+
+/* Container for loading icon when page is loaded before cards are displayed */
+#skystats-cards-loading-container {
+	margin: 40px 0 0 20px;
+	text-align: center;
+}
+
+/* Card settings profile(s) container */
+.skystats-card-settings-profiles-container {
+
+}
+/* Profiles themselves */
+.skystats-card-settings-profiles {
+	width: 100%;
+}
+.skystats-card-settings-save-profiles {
+	display: block;
+	margin-top: 5px !important;
+}
+
+/*
+	Cards
+*/
+
+/* Card column */
+.skystats-cards-col {
+	float: left;
+	width: 25%;
+}
+
+.skystats-cards-col:after {
+	clear: both;
+}
+
+#column_1 .skystats-card-container {
+	margin-left: 0;
+}
+
+/* Card container */
+.skystats-card-container {
+	/*border: 1px solid #000;*/
+	margin: 0 0 20px 20px;
+}
+
+.skystats-card {
+	background-color: rgba( 255, 255, 255, 0.6 );
+	word-wrap: break-word;
+	display: none;
+}
+
+/* Heading container: text, icons */
+.skystats-card-header {
+	background: transparent;
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=#D9FFFFFF, endColorstr=#D9FFFFFF );
+	background: rgba( 255, 255, 255, 0.7 );
+	border-bottom: 1px solid #d7d7d7;
+	padding: 12px 10px 1px 10px;
+}
+
+/* Heading icon */
+.skystats-card-drag-icon {
+	background: url( '../images/drag-icon.png' ) no-repeat;
+	display: inline-block;
+	height: 26px;
+	width: 21px;
+	cursor: move;
+}
+
+/* Heading text */
+.skystats-card-heading {
+	color: #656565;
+	display: inline-block;
+	font-size: 17px;
+	font-weight: 600;
+	margin: 2px 0 0 5px;
+	vertical-align: top;
+}
+
+/* Content for card settings icon */
+.skystats-card-settings-content {
+	display: none;
+}
+
+/* Card content */
+.skystats-card-content {
+	background: transparent;
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=#CCFFFFFF, endColorstr=#CCFFFFFF );
+	background: rgba( 255, 255, 255, 0.6 );
+	padding: 18px 20px 20px 20px;
+	overflow: hidden;
+}
+
+/* The empty container where a card can be dropped */
+.skystats-card-placeholder {
+	border: 2px dashed #ccc;
+	margin: 0 0 20px 20px;
+}
+
+.skystats-card-image-container {
+	margin-top: 15px;
+	text-align: center;
+}
+
+.skystats-vote-now-container {
+	margin-top: 15px;
+	text-align: center;
+}
+
+.skystats-vote-now-container > img {
+	width: auto;
+}
+
+.skystats-mashboard-vote-now {
+	display: block;
+}
+.skystats-mashboard-vote-now > img {
+	margin-top: 10px;
+}
+
+/* Vote result message(s) */
+.skystats-mashboard-vote-result-message,
+.skystats-mashboard-vote-result-sub-message {
+	font-weight: bold;
+	color: #aa3f3f;
+}
+.skystats-mashboard-vote-result-message {
+	font-size: 16px;
+}
+.skystats-mashboard-vote-result-sub-message {
+	font-size: 15px;
+	font-style: italic;
+}
+
+/* Card detail link */
+.skystats-card-details-container {
+	text-align: right;
+}
+
+.skystats-card-details {
+}
+
+/* Detail link at bottom right of each card */
+.skystats-card-details-link {
+	color: #72aa3f !important;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+/*
+	Charts
+*/
+.skystats-chart-loading-container {
+	margin-top: 10px;
+}
+.skystats-mashboard-chart-container {
+
+}
+.skystats-mashboard-chart {
+	cursor: crosshair;
+	height: 300px;
+	margin: 0;
+	max-height: 300px;
+	padding: 0;
+	width: 100%;
+}
+
+/*
+	Data points
+*/
+
+.skystats-data-points-container {
+	display: none;
+	margin: 10px 0 0 15px;
+	overflow: hidden;
+}
+
+.skystats-mashboard-data-point-column {
+	background: none !important;
+	float: left;
+	margin-bottom: 20px;
+	position: relative;
+	text-align: center;
+	width: 50%;
+}
+
+.skystats-dashboard-data-point-header {
+	text-align: left;
+}
+
+.skystats-dashboard-data-point-heading {
+}
+
+.skystats-dashboard-data-point-heading-info {
+	background: url( '../images/info.png' ) no-repeat -2px 2px;
+	padding: 0 8px 4px 5px;
+	cursor: help;
+}
+
+.skystats-dashboard-data-point-content {
+	margin-top: 20px;
+	text-align: left;
+}
+
+/* GA Bounce Rate */
+#skystats-mashboard-google-analytics-bounce-rate {
+	position: relative;
+}
+
+.skystats-donut {
+	height: 150px;
+	margin: 0 auto;
+	pointer-events: none;
+	text-align: left;
+}
+
+.skystats-donut > svg > text:first-child > tspan {
+	font-size: 40px !important;
+}
+
+.skystats-dashboard-data-point-footer {
+	margin-top: 5px;
+	position: relative;
+	text-align: left;
+}
+
+.skystats-dashboard-data-point-change  {
+	font-size: 1.5em;
+	font-weight: bolder;
+}
+
+.skystats-dashboard-data-point-chart-key {
+	padding: 4px;
+	cursor: default;
+}
+
+#skystats-google-analytics-users-chart-key {
+	background: url('../images/admin-sprite.png') 0 -133px;
+}
+
+#skystats-google-analytics-page-views-chart-key {
+	background: url('../images/admin-sprite.png') 0 -74px;
+}
+
+.skystats-dashboard-data-point-total {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 3.3em;
+	font-weight: 800;
+}
+
+/*
+ * Settings Tab
+ */
+.skystats-data-for-setting-control-loading-container {
+	margin-top: 5px;
+}
+
+/* Bounce rate change direction */
+#skystats-mashboard-google-analytics-bounce-rate-change-direction {
+	left: 36px;
+	top: 70px;
+	position: absolute;
+	padding: 12px;
+}
+
+
+/* Data Point Column Media Queries */
+@media all and ( min-width: 0 ) and ( max-width: 500px ) {
+	.skystats-mashboard-data-point-column {
+		width: 100%;
+	}
+}
+@media all and ( min-width: 800px ) and ( max-width: 1000px ) {
+	.skystats-data-point-value {
+		font-size: 36px;
+	}
+}
+
+/*
+	Temporary
+*/
+
+@media screen and ( min-width: 0px ) and ( max-width: 350px ) {
+	.skystats-card-container {
+		margin-left: 0;
+	}
+	#wpbody {
+		min-height: 1200px;
+	}
+	.skystats-cards-col {
+		width: 100%;
+	}
+	.skystats-mashboard-data-point-column {
+		width: 100%;
+	}
+	.skystats-vote-now-container > img {
+		width: 210px;
+	}
+	#skystats-start-date-container, #skystats-end-date-container {
+		float: none;
+		margin-left: 0;
+		text-align: inherit;
+		width: 100%;
+	}
+	#start_date, #end_date, #date_range {
+		margin-top: 5px;
+	}
+}
+
+@media screen and ( min-width: 350px ) and ( max-width : 800px ) {
+	.skystats-card-container {
+		margin-left: 0;
+	}
+	.skystats-cards-col {
+		width: 100%;
+	}
+	.skystats-vote-now-container > img {
+		width: 250px;
+	}
+	#skystats-start-date-container, #skystats-end-date-container {
+		float: none;
+		margin-left: 0;
+		text-align: inherit;
+		width: 100%;
+	}
+	#start_date, #end_date {
+		display: block;
+		margin: 5px auto;
+	}
+}
+
+@media screen and ( min-width: 800px ) and ( max-width: 1300px ) {
+	.skystats-cards-col {
+		width: 50%;
+	}
+	#column_3 {
+		float: right;
+	}
+	#column_4 .skystats-card-container {
+		margin-left: 0;
+	}
+}
+
+@media screen and ( min-width: 1300px ) and ( max-width: 1600px ) {
+	.skystats-cards-col {
+		width: 33%;
+	}
+}
+
+@media screen and ( max-width: 800px ) {
+	#column_3 {
+		float: right;
+	}
+}
+
+#skystats-facebook-error-container, #skystats-google-analytics-error-container {
+	display: none;
+	padding: 1px 5px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+/* Integration vote totals container */
+.skystats-integration-vote-totals-container {
+	display: none;
+	font-size: 18px;
+	margin: 0 auto;
+	padding: 10px 0 0 0;
+	text-align: center;
+	width: 50%;
+}
+/* Integration vote total loading container */
+.skystats-integration-vote-totals-loading-container {
+	margin-top: 5px;
+}
+/* Loading icon when voting for an integration */
+.skystats-integration-vote-loading-container {
+	margin-top: 15px;
+}
