@@ -4,7 +4,7 @@ URL: https://skystats.com
 Tags: ajax, google, analytics dashboard, google analytics dashboard, google analytics widget, facebook insights, facebook analytics widget, facebook analytics dashboard, tracking, wpmu, multisite, skystats, stats, analytics, insights, admin, dashboard, mashboard, google analytics, facebook, twitter, google+, youtube, mailchimp, linkedin, campaign monitor, paypal, metrics, seo, marketing, reports, reporting
 Requires at least: 3.0
 Tested up to: 4.2
-Stable tag: 0.2.5
+Stable tag: 0.2.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
