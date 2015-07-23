@@ -1,10 +1,10 @@
 ﻿=== SkyStats - An All-In-One Business Intelligence Dashboard For Marketing Analytics ===
 Contributors: SkyStats, thriveideas
 URL: https://skystats.com
-Tags: ajax, google, analytics dashboard, google analytics dashboard, google analytics widget, facebook insights, facebook analytics widget, facebook analytics dashboard, tracking, wpmu, multisite, skystats, stats, analytics, insights, admin, dashboard, mashboard, google analytics, facebook, twitter, google+, youtube, mailchimp, linkedin, campaign monitor, paypal, metrics, seo, marketing, reports, reporting
+Tags: ajax, twitter analytics widget, twitter analytics, twitter stats, google, analytics dashboard, google analytics dashboard, google analytics widget, facebook insights, facebook analytics widget, facebook analytics dashboard, tracking, wpmu, multisite, skystats, stats, analytics, insights, admin, dashboard, mashboard, google analytics, facebook, twitter, google+, youtube, mailchimp, linkedin, campaign monitor, paypal, metrics, seo, marketing, reports, reporting, adwords, bi dashboard, business dashboard, google, google ads, google advertising, google adwords, google dashboard, google marketing, kpi dashboard, pay per click, ppc, social media, social media dashboard, social media widget, wordpress dashboard
 Requires at least: 3.0
 Tested up to: 4.2
-Stable tag: 0.2.8
+Stable tag: 0.2.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,12 +12,42 @@ A better WordPress dashboard that integrates Google Analytics, Facebook Analytic
 
 == Description ==
 
-[SkyStats Analytics Dashboard](https://skystats.com) is an all-in-one business dashboard for WordPress. The SkyStats plugin will allow you to customize your WordPress dashboard by seamlessly integrating such business data as web analytics, social media, paid search, email, video, and other marketing channels into a single view.
+[SkyStats Analytics Dashboard](https://skystats.com/?utm_source=wordpress&utm_medium=readme&utm_campaign=plugin#pricing) is an all-in-one business dashboard for WordPress. The SkyStats plugin will allow you to customize your WordPress dashboard by seamlessly integrating such business data as web analytics, social media, paid search, email, video, and other marketing channels into a single view.
+
+> After downloading [you must register here](https://skystats.com/?utm_source=wordpress&utm_medium=readme&utm_campaign=plugin#pricing) for a Free or Premium license key
 
 = Integrations =
 
+* Google Adwords - Integrates Google Adwords to create a PPC dashboard.
 * Google Analytics - Integrates Google Analytics to create a Google Analytics dashboard.
 * Facebook Insights - Integrates Facebook Insights to create a Facebook dashboard.
+* Twitter Analytics - Integrates Twitter Analytics to create a Twitter dashboard.
+
+= Google Adwords Integration =
+The Google Adwords dashboard provides the following features:
+
+1. The ability to connect individual or MCC account data.
+2. Allows you to view aggregated Adwords account data for a specific date range.
+3. Allows you to view all PPC campaign data for a specific date range.
+4. Provides a visual overview widget that includes key PPC statistics:
+
+* Total Clicks
+* Average Cost Per Click
+* Total Campaign Spend
+* Total Impressions
+* Click Through Rate
+* Total Conversions
+* Average Cost Per Conversion
+* Bounce Rate
+
+5. The Google Adwords dashboard detail view includes additional stats like:
+
+* Account-level Top Keyword Performance For Specific Date Range
+* Account-level Campaigns Date Range
+* Campaign-level Top Keyword Performance For Specific Date Range
+* Campaign-level Ad Groups For Specific Date Range
+
+Note: Must have an active Google Adwords account or access to the account through the Adwords MCC account. SkyStats does not install Google Adwords conversion tracking onto your WordPress website.
 
 = Google Analytics Integration =
 The Google Analytics dashboard provides the following features:
@@ -33,6 +63,8 @@ The Google Analytics dashboard provides the following features:
 * Average Visit Duration
 * And More
 
+Note: SkyStats does NOT install Google Analytics onto your WordPress website. We recommend watching this video to learn how to [easily set up and install Google Analytics](https://www.youtube.com/watch?v=H-q4PBZELDk).
+
 = Facebook Insights Integration =
 The Facebook Insights dashboard provides the following features:
 
@@ -47,12 +79,36 @@ The Facebook Insights dashboard provides the following features:
 * Top Posts
 * And More
 
+Note: Must have an active Facebook account and access to an Facebook Business Page.
+
+= Twitter Analytics Integration =
+Our Twitter analytics dashboard provides a visually stunning view of your Twitter account data without ever leaving your WordPress Dashboard.
+
+The Twitter dashboard provides the following features:
+
+1. The ability to sync your Twitter data with just one click.
+2. Allows you to easily plot Favorites and Mentions for a specific date range.
+3. Provides a visual overview widget that includes key Twitter statistics:
+
+* Total Number of Favorites
+* Total Number of Mentions
+* Total Number of Retweets
+* Total Number of Tweets
+* Number of New Followers / Following
+
+4. The Twitter dashboard detail view includes additional stats like:
+
+* Top 5 Tweets For Specific Date Range
+* Top 5 Retweets For Specific Date Range
+* Top 5 Mentions For Specific Date Range
+* Top 5 Favorited For Specific Date Range
+
+Note: Must have an active Twitter Account for at least 30 days.
+
 = Integrations Coming Soon =
 
-* Twitter
 * WordPress
 * Google+
-* Google Adwords
 * YouTube
 * MailChimp
 * LinkedIn
@@ -71,41 +127,77 @@ The Facebook Insights dashboard provides the following features:
 * FULLY TRANSLATABLE - Translate the plugin into your own language.
 * MULTISITE COMPATIBLE - Built from the ground up to be fully compatible within a multisite environment.
 
-Take a test drive, but don’t miss out on these premium features when you upgrade:
-
-
-* Get access to more than 30 days of data.
-* Be able to whitelabel the dashboard.
-* Use the plugin on multiple sites.
-* Get premium support.
-* Get pre-release notifications on new integrations.
+> <strong>SkyStats Pro</strong><br>
+> If you would like additional advanced functions, we offer a Pro version.
+>
+>* Get access to more than 30 days of data
+>* Ability to view Google Adwords campaign level data
+>* Be able to white label the dashboard
+>* Ability to show/hide tiles on the mashboard
+>* Use the plugin on multiple sites
+>* Get premium support
+>* Get pre-release notifications on new integrations
+>
+> [Pro license available here](https://skystats.com/?utm_source=wordpress&utm_medium=readme&utm_campaign=plugin#pricing)
 
 = About =
 
-SkyStats is built with pride by [Thrive Internet Marketing](http://thrivenetmarketing.com/).  Thrive is a WordPress web design and SEO agency with proven results.
+SkyStats is built with pride by [Thrive Internet Marketing](http://thrivenetmarketing.com/?utm_source=wordpress&utm_medium=readme&utm_campaign=plugin). Thrive is a WordPress web design and SEO agency with proven results.
 
 == Installation ==
 
 1. From your WordPress dashboard go to Plugins -> Add New -> Upload Plugin and select the `skystats.zip` file from your computer. If you don't see this option you may not have the proper user permissions. Please contact your web designer or web host and ask them to give you permissions to install and activate plugins or ask them to install SkyStats for you.
 2. Activate the plugin through the 'Plugins' menu in your WordPress administration dashboard.
 3. A SkyStats menu will appear at the top left of your WordPress dashboard menu.
-4. Go to SkyStats -> Settings, enter your license key and click `validate` (if you don't have a license key, visit https://skystats.com/#pricing to purchase a free, or premium, license key).
+4. Go to SkyStats -> Settings, enter your license key and click `validate` (if you don't have a license key, then [you must register here](https://skystats.com/?utm_source=wordpress&utm_medium=readme&utm_campaign=plugin#pricing) for a Free or Premium license key).
 5. If everything worked successfully, you'll then be presented with a link to be able to activate your desired integrations.
 
 == Frequently Asked Questions ==
 
 = Why do I need a SkyStats license key? =
 
-* In order to use this plugin, you have to provide a valid SkyStats license key. You can purchase a Free or Paid license key at [SkyStats.com](https://skystats.com/#pricing) 
+* In order to use this plugin, you have to provide a valid SkyStats license key. You can purchase a Free or Paid license key at [SkyStats.com](https://skystats.com/?utm_source=wordpress&utm_medium=readme&utm_campaign=plugin#pricing).
+
+You can find answers to your questions, request support, or just drop us a line at our [Support Portal](https://skystats.com/support/?utm_source=wordpress&utm_medium=readme&utm_campaign=plugin).
 
 == Screenshots ==
 
 1. Mashboard Overview
 2. Google Analytics Detail Page
 3. Facebook Detail Page
-4. Settings Page
+4. Twitter Detail Page
+5. Google Adwords Detail Page
+6. Settings Page
 
 == Changelog ==
+
+= 0.2.9 - 23rd July 2015 =
+* [Feature] Google Adwords integration is now available.
+* [Feature] You can now choose which integrations or cards you would like to be displayed on the Mashboard.
+* [Feature] More flexibility when choosing which roles can access the stats (Mashboard and detail pages).
+* [Feature] You can now choose with users are allowed to view and edit the Settings page.
+* [Change] Coming soon integrations removed from Mashboard. You can still vote for an integration through the 'Vote' card.
+* [Change] Logged in users with sufficient access will now be redirected to the Mashboard if it's set as the default dashboard.
+* [Change] Google Analytics profile selection has changed to the include the property names and ids in the drop-down menu.
+* [Bug] Correct redirect URL is now used for Twitter on its detail page.
+* [Change] Images/CSS cleanup.
+* [Change] New translations added, and some have been removed.
+
+= 0.2.8 - 15th June 2015 =
+* [Bug] Fixes bug with the pages not loading using the Firefox web browser.
+* [Change] The default 30 day date range has been changed to include todays date.
+
+= 0.2.7 - 11th June 2015 =
+* [Bug] Fixes bug where you couldn't see yesterdays data on your chart(s).
+
+= 0.2.6 - 3rd June 2015 =
+* [Feature] Twitter integration now available.
+* [Change] Chart key colors for Facebook are now being used for Twitter, and Facebook's have been changed.
+* [Change] New translations added.
+* [Change] An error message will now be displayed instead of an empty table for any of the Top Data Tables on all integration detail report pages.
+
+= 0.2.5 - 1st May 2015 =
+* [Bug] Fixes javascript conflict with Google Analyticator plugin. If the data on the chart doesn't display correctly, please upgrade.
 
 = 0.2.4 - 18th April 2015 =
 * [CHANGE] Clicking 'SkyStats Pro' on the date range notice message on the Mashboard, or detail pages will now open a new tab, or a new window, instead of loading into the current tab/window.
