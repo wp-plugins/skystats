@@ -1,0 +1,10 @@
+/* Reposition menu icon so it aligns with menu header correctly */
+#toplevel_page_skystats-mashboard > a div:nth-child(2) > img {
+	padding-top: 12px;
+}
+
+/* Same as above but for WP < 3.8 */
+#toplevel_page_skystats-mashboard > div.wp-menu-image {
+	padding-top: 2px;
+	padding-right: 3px;
+}
