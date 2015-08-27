@@ -3,8 +3,8 @@ Contributors: SkyStats, thriveideas
 URL: https://skystats.com
 Tags: ajax, twitter analytics widget, twitter analytics, twitter stats, google, analytics dashboard, google analytics dashboard, google analytics widget, facebook insights, facebook analytics widget, facebook analytics dashboard, tracking, wpmu, multisite, skystats, stats, analytics, insights, admin, dashboard, mashboard, google analytics, facebook, twitter, google+, youtube, mailchimp, linkedin, campaign monitor, paypal, metrics, seo, marketing, reports, reporting, adwords, bi dashboard, business dashboard, google, google ads, google advertising, google adwords, google dashboard, google marketing, kpi dashboard, pay per click, ppc, social media, social media dashboard, social media widget, wordpress dashboard
 Requires at least: 3.0
-Tested up to: 4.2
-Stable tag: 0.3.0
+Tested up to: 4.3
+Stable tag: 0.3.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -166,16 +166,26 @@ You can find answers to your questions, request support, or just drop us a line 
 2. Google Analytics Detail Page
 3. Facebook Detail Page
 4. Twitter Detail Page
-5. Google Adwords Detail Page
-6. Settings Page
+5. Google Adwords Account Level View
+6. Google Adwords Campaign Level View (Premium only)
+7. Settings Page
 
 == Changelog ==
+
+= 0.3.1 - 27th August 2015 =
+* [Feature] You can now authorize and deauthorize all the integrations without being redirected and having to wait for the page to reload before being able to authorize or deauthorize other integrations.
+* [Feature] All drop-down menus for the integrations now allow you to search for the items, e.g. a view for Google Analytics or a page for Facebook.
+* [Bug] Fixes bug when there is only one Google Adwords account to select from.
+* [Bug] Fixes bug with background image not displaying correctly.
+
+= 0.3.0 - 4th August 2015 =
+* [Change] Google Analytics Users value will now match what's being reported by Google and we've opened a bug report with them (values for each day doesn't add up to the total reported). Also modified tooltip.
+* [Bug] Fixes issue where undefined is displayed as a campaign for Google Adwords if you are using a premium license key the SkyStats Lite version. If you have a premium license key, please make sure you install SkyStats Pro.
+* [Translations] Modified Google Analytics Users tooltip text.
 
 = 0.2.9 - 23rd July 2015 =
 * [Feature] Google Adwords integration is now available.
 * [Feature] You can now choose which integrations or cards you would like to be displayed on the Mashboard.
-* [Feature] More flexibility when choosing which roles can access the stats (Mashboard and detail pages).
-* [Feature] You can now choose with users are allowed to view and edit the Settings page.
 * [Change] Coming soon integrations removed from Mashboard. You can still vote for an integration through the 'Vote' card.
 * [Change] Logged in users with sufficient access will now be redirected to the Mashboard if it's set as the default dashboard.
 * [Change] Google Analytics profile selection has changed to the include the property names and ids in the drop-down menu.
