@@ -4,7 +4,7 @@ URL: https://skystats.com
 Tags: ajax, twitter analytics widget, twitter analytics, twitter stats, google, analytics dashboard, google analytics dashboard, google analytics widget, facebook insights, facebook analytics widget, facebook analytics dashboard, tracking, wpmu, multisite, skystats, stats, analytics, insights, admin, dashboard, mashboard, google analytics, facebook, twitter, google+, youtube, mailchimp, linkedin, campaign monitor, paypal, metrics, seo, marketing, reports, reporting, adwords, bi dashboard, business dashboard, google, google ads, google advertising, google adwords, google dashboard, google marketing, kpi dashboard, pay per click, ppc, social media, social media dashboard, social media widget, wordpress dashboard
 Requires at least: 3.0
 Tested up to: 4.3
-Stable tag: 0.3.1
+Stable tag: 0.3.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
