@@ -1,0 +1,1790 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SkyStats\n"
+"POT-Creation-Date: 2015-09-29 19:59-0000\n"
+"PO-Revision-Date: 2015-09-29 19:59-0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: templates/default/static\n"
+"X-Poedit-SearchPathExcluded-1: classes/SkyStats_Automatic_Updater.php\n"
+
+#: functions/access.php:18 skystats.php:227
+msgid "SkyStats"
+msgstr ""
+
+#: functions/access.php:20
+#, php-format
+msgid ""
+"Sorry! You do not have access this page. If you think this is wrong, please "
+"contact the person who has access to the %s Settings."
+msgstr ""
+
+#: functions/access.php:21
+msgid "Access Denied"
+msgstr ""
+
+#: functions/api/google-adwords.php:411
+#, php-format
+msgid ""
+"A unhandled Google Adwords API error occurred: \"%s\". Please try again."
+msgstr ""
+
+#: functions/api/google-adwords.php:423
+msgid ""
+"Google Adwords API Error: There was too much data to return. If you're "
+"trying to view data over a long period of time, please try refining your "
+"criteria or trying again."
+msgstr ""
+
+#: functions/api/google-adwords.php:424
+msgid ""
+"Google Adwords API Error: No account found for the provided customer ID. If "
+"you've just created your account, then please wait a few minutes before "
+"trying again."
+msgstr ""
+
+#: functions/api/google-adwords.php:432
+msgid "Your access token has expired or is invalid. Please try again."
+msgstr ""
+
+#: functions/api/google-adwords.php:433
+#, php-format
+msgid ""
+"Your account is not an Adwords account. Please try again, or if the problem "
+"persists, deauthorize, then click <a href=\"%s\">here</a> to signup for a "
+"Google Adwords account."
+msgstr ""
+
+#: functions/api/google-adwords.php:434
+msgid ""
+"There was an error trying to authorize your account. Please try again or "
+"wait a few minutes before retrying."
+msgstr ""
+
+#: functions/api/google-adwords.php:435
+msgid ""
+"Permission denied. You're likely trying to access an account or campaign "
+"that you do not have access to. Please try again."
+msgstr ""
+
+#: functions/api/google-adwords.php:447
+msgid ""
+"There was an issue processing your request due an error in the Google "
+"Adwords API. Please wait at least 30 seconds before trying again."
+msgstr ""
+
+#: functions/api/google-adwords.php:462
+msgid ""
+"The selected date range is too low. Please try again or refine your search."
+msgstr ""
+
+#: functions/api/google-adwords.php:463
+msgid ""
+"Rate limit exceeded. Please wait for at least 30 seconds, then try again."
+msgstr ""
+
+#: functions/api/google-adwords.php:469
+msgid "Google Adwords API Error: An unknown error occurred. Please try again."
+msgstr ""
+
+#: functions/api/google-adwords.php:470
+msgid ""
+"No accounts found. Please try again or deauthorize and use a Google Adwords "
+"account that has access to an account with at least one active campaign."
+msgstr ""
+
+#: functions/api/google-adwords.php:471
+msgid ""
+"No campaigns found. Please select an account which has access to at least "
+"one active campaign."
+msgstr ""
+
+#: functions/api/google-adwords.php:472
+msgid ""
+"No data found for the selected period. Please try again or refine your "
+"search."
+msgstr ""
+
+#: functions/api/google-adwords.php:473
+msgid ""
+"A HTTP Error occurred. This was likely caused by a timeout. Please try again."
+msgstr ""
+
+#: functions/api/google-adwords.php:474
+msgid ""
+"Your access token has been revoked and could not be refreshed for you. "
+"Please click \"Deauthorize\" and then \"Setup\" to re-setup the integration."
+msgstr ""
+
+#: functions/api/licensing.php:107
+#, php-format
+msgid ""
+"Sorry, an error occurred. Please click <a href=\"%s\">here</a> to refresh "
+"the page. Alternatively, click <a href=\"%s\">here</a> to check you've "
+"entered your license key correctly."
+msgstr ""
+
+#: functions/api/licensing.php:110
+#, php-format
+msgid ""
+"Sorry, this license key is invalid. Please click <a href=\"%s\">here</a> to "
+"check you've entered your license key correctly, or to enter a new one."
+msgstr ""
+
+#: functions/api/licensing.php:111
+#, php-format
+msgid ""
+"A license key has not been entered yet. Please click <a href=\"%s\">here</a> "
+"to enter your license key or check you've entered your license key correctly."
+msgstr ""
+
+#: functions/api/licensing.php:112
+#, php-format
+msgid ""
+"License key format is invalid. Please click <a href=\"%s\">here</a> to check "
+"you've entered your license key correctly or to activate one."
+msgstr ""
+
+#: functions/api/licensing.php:113
+#, php-format
+msgid ""
+"Sorry, an error occurred. This was likely caused by a timeout. Please click "
+"<a href=\"%s\">here</a> to refresh the page. Alternatively, click <a href="
+"\"%s\">here</a> to check you've entered your license key correctly"
+msgstr ""
+
+#: functions/api/licensing.php:117
+#, php-format
+msgid ""
+"This license key has not been activated for this site yet. Please click <a "
+"href=\"%s\">here</a> to go to your settings to activate it."
+msgstr ""
+
+#: functions/api/licensing.php:118
+#, php-format
+msgid ""
+"Sorry, this license key hasn't been activated for this site yet, however you "
+"have no remaining activations left. Please click <a href=\"%s\">here</a> to "
+"check you've entered your license key correctly or to enter a new one."
+msgstr ""
+
+#: functions/api/licensing.php:119
+#, php-format
+msgid ""
+"This license key has not been activated yet. Please click <a href=\"%s"
+"\">here</a> to go to your settings to activate it."
+msgstr ""
+
+#: functions/api/licensing.php:120
+#, php-format
+msgid ""
+"Sorry, this license key hasn't been activated yet, however you have no "
+"remaining activations left. Please click <a href=\"%s\">here</a> to check "
+"you've entered your license key correctly or to enter a new one."
+msgstr ""
+
+#: functions/api/licensing.php:121
+#, php-format
+msgid ""
+"Sorry, this license key has been disabled. Please click <a href=\"%s\">here</"
+"a> to check you've entered your license key correctly."
+msgstr ""
+
+#: functions/api/licensing.php:122
+#, php-format
+msgid ""
+"Sorry, an unknown error occurred. Please click <a href=\"%s\">here</a> to "
+"refresh the page. Alternatively, click <a href=\"%s\">here</a> to check "
+"you've entered your license key correctly or to enter a new one."
+msgstr ""
+
+#: functions/api/licensing.php:126
+#, php-format
+msgid ""
+"Sorry, this license key has expired. Please click <a href=\"%s\">here</a> to "
+"renew your license, or click <a href=\"%s\">here</a> to enter a different "
+"one."
+msgstr ""
+
+#: functions/api/licensing.php:140
+msgid "Sorry, an error occurred. Please try again."
+msgstr ""
+
+#: functions/api/licensing.php:142
+msgid "Please enter a valid license key."
+msgstr ""
+
+#: functions/api/licensing.php:146
+msgid "Please enter a license key."
+msgstr ""
+
+#: functions/api/licensing.php:148
+msgid ""
+"Sorry, an error occurred. This was likely caused by a timeout. Please try "
+"again."
+msgstr ""
+
+#: functions/api/licensing.php:152
+#, php-format
+msgid ""
+"License key validated successfully. Please click <a href=\"%s\">here</a> to "
+"go setup your integrations."
+msgstr ""
+
+#: functions/api/licensing.php:153
+#, php-format
+msgid ""
+"License key activated successfully. Please click <a href=\"%s\">here</a> to "
+"go setup your integrations."
+msgstr ""
+
+#: functions/api/licensing.php:154
+msgid ""
+"Sorry, this license key hasn't been used for this site yet, however you have "
+"no remaining activations left. Please enter a different license key to "
+"continue."
+msgstr ""
+
+#: functions/api/licensing.php:155
+msgid ""
+"Sorry, this license key hasn't been activated for this site yet, however "
+"there was an error when trying to activate it. Please try again."
+msgstr ""
+
+#: functions/api/licensing.php:156
+msgid ""
+"Sorry, this license key hasn't been activated for any sites yet, however you "
+"have no remaining activations left. Please enter a different license key to "
+"continue."
+msgstr ""
+
+#: functions/api/licensing.php:157
+msgid ""
+"Sorry, this license key hasn't been activated for any sites yet, however "
+"there was an error when trying to activate it. Please try again."
+msgstr ""
+
+#: functions/api/licensing.php:159
+#, php-format
+msgid ""
+"Sorry, this license key has expired. Please click <a href=\"%s\">here</a> to "
+"renew your license, or enter a different one below."
+msgstr ""
+
+#: functions/api/licensing.php:160
+msgid ""
+"Sorry, this license key has been disabled. Please enter a different license "
+"key to continue."
+msgstr ""
+
+#: functions/api/licensing.php:161
+msgid "Sorry, an unknown error occurred. Please try again."
+msgstr ""
+
+#: skystats.php:49
+msgid ""
+"Integration setup successfully. If you see this message and/or the popup "
+"hasn't closed, please close this popup. If a loading icon doesn't appear on "
+"the integration after closing this popup, please reload the page."
+msgstr ""
+
+#: skystats.php:139
+#, php-format
+msgid ""
+"Thanks for activating SkyStats! Go to the <a href=\"%s\">settings</a> page "
+"to enter your license key."
+msgstr ""
+
+#: skystats.php:181 skystats.php:248 templates/default/admin/settings.php:44
+msgid "Settings"
+msgstr ""
+
+#: skystats.php:226 templates/default/admin/settings.php:103
+msgid "SkyStats Mashboard"
+msgstr ""
+
+#: skystats.php:228
+msgid "Mashboard"
+msgstr ""
+
+#: skystats.php:231
+msgid "SkyStats Google Analytics"
+msgstr ""
+
+#: skystats.php:231 templates/default/admin/google-analytics.php:36
+#: templates/default/admin/mashboard-integrations/google-analytics.php:12
+msgid "Google Analytics"
+msgstr ""
+
+#: skystats.php:234
+msgid "SkyStats Facebook"
+msgstr ""
+
+#: skystats.php:234 templates/default/admin/facebook.php:36
+#: templates/default/admin/mashboard-integrations/facebook.php:11
+msgid "Facebook"
+msgstr ""
+
+#: skystats.php:237
+msgid "SkyStats Twitter"
+msgstr ""
+
+#: skystats.php:237
+#: templates/default/admin/mashboard-integrations/twitter.php:11
+#: templates/default/admin/twitter.php:37
+msgid "Twitter"
+msgstr ""
+
+#: skystats.php:240
+msgid "SkyStats Google Adwords"
+msgstr ""
+
+#: skystats.php:240 templates/default/admin/google-adwords.php:37
+#: templates/default/admin/mashboard-integrations/google-adwords.php:12
+msgid "Google Adwords"
+msgstr ""
+
+#: skystats.php:243
+msgid "SkyStats MailChimp"
+msgstr ""
+
+#: skystats.php:243 templates/default/admin/mailchimp.php:37
+#: templates/default/admin/mashboard-integrations/mailchimp.php:12
+msgid "MailChimp"
+msgstr ""
+
+#: skystats.php:248
+msgid "SkyStats Settings"
+msgstr ""
+
+#: skystats.php:572 skystats.php:626 skystats.php:666 skystats.php:707
+#: skystats.php:751 skystats.php:792
+msgid "Start date cannot be after the end date."
+msgstr ""
+
+#: skystats.php:573 skystats.php:625 skystats.php:667
+msgid ""
+"Sorry, you can only view data within the current 30 days. The current 30 "
+"days worth of data are being loaded for you automatically."
+msgstr ""
+
+#: skystats.php:574 skystats.php:668 skystats.php:709 skystats.php:753
+#: skystats.php:794
+msgid "Start and end date cannot be after today."
+msgstr ""
+
+#: skystats.php:708 skystats.php:752 skystats.php:793
+msgid "Start and end date must be on or after January 1st, 2005."
+msgstr ""
+
+#: templates/default/admin/facebook.php:18
+#: templates/default/admin/google-adwords.php:19
+#: templates/default/admin/google-analytics.php:18
+#: templates/default/admin/mailchimp.php:19
+#: templates/default/admin/mashboard.php:24
+#: templates/default/admin/twitter.php:19
+#, php-format
+msgid ""
+"Currently displaying the past 30 days. Upgrade to <a href=\"%s\" target="
+"\"_blank\">SkyStats Pro</a> to access more than 30 days of data."
+msgstr ""
+
+#: templates/default/admin/facebook.php:38
+#: templates/default/admin/mashboard-integrations/facebook.php:12
+msgid "Configure Settings for Facebook"
+msgstr ""
+
+#: templates/default/admin/facebook.php:40
+#: templates/default/admin/mashboard-integrations/facebook.php:14
+msgid "Show/Hide Facebook Data Points"
+msgstr ""
+
+#: templates/default/admin/facebook.php:46
+#: templates/default/admin/facebook.php:75
+#: templates/default/admin/facebook.php:137
+#: templates/default/admin/mashboard-integrations/facebook.php:20
+#: templates/default/admin/mashboard-integrations/facebook.php:108
+msgid "Total Likes"
+msgstr ""
+
+#: templates/default/admin/facebook.php:52
+#: templates/default/admin/facebook.php:77
+#: templates/default/admin/facebook.php:154
+#: templates/default/admin/mashboard-integrations/facebook.php:26
+#: templates/default/admin/mashboard-integrations/facebook.php:126
+msgid "Total Reach"
+msgstr ""
+
+#: templates/default/admin/facebook.php:58
+#: templates/default/admin/facebook.php:171
+#: templates/default/admin/mashboard-integrations/facebook.php:32
+#: templates/default/admin/mashboard-integrations/facebook.php:143
+msgid "Page Visits"
+msgstr ""
+
+#: templates/default/admin/facebook.php:64
+#: templates/default/admin/facebook.php:188
+#: templates/default/admin/mashboard-integrations/facebook.php:38
+#: templates/default/admin/mashboard-integrations/facebook.php:160
+msgid "People Engaged"
+msgstr ""
+
+#: templates/default/admin/facebook.php:91
+#: templates/default/admin/mashboard-integrations/facebook.php:61
+msgid "No Pages Found"
+msgstr ""
+
+#: templates/default/admin/facebook.php:92
+#: templates/default/admin/mashboard-integrations/facebook.php:62
+msgid ""
+"No pages found. Please try refreshing the page or deauthorize below then "
+"reauthorize with a Facebook account that has access to at least one page's "
+"insights."
+msgstr ""
+
+#: templates/default/admin/facebook.php:96
+#: templates/default/admin/mashboard-integrations/facebook.php:66
+msgid "Select Page"
+msgstr ""
+
+#: templates/default/admin/facebook.php:97
+#: templates/default/admin/mashboard-integrations/facebook.php:67
+msgid "Select a page from the list below to display data for:"
+msgstr ""
+
+#: templates/default/admin/facebook.php:100
+#: templates/default/admin/google-adwords.php:124
+#: templates/default/admin/google-analytics.php:105
+#: templates/default/admin/mashboard-integrations/facebook.php:70
+#: templates/default/admin/mashboard-integrations/google-adwords.php:74
+#: templates/default/admin/mashboard-integrations/google-analytics.php:73
+msgid "Save"
+msgstr ""
+
+#: templates/default/admin/facebook.php:104
+#: templates/default/admin/facebook.php:106
+#: templates/default/admin/google-analytics.php:115
+#: templates/default/admin/google-analytics.php:117
+#: templates/default/admin/mashboard-integrations/facebook.php:74
+#: templates/default/admin/mashboard-integrations/facebook.php:76
+#: templates/default/admin/mashboard-integrations/google-analytics.php:83
+#: templates/default/admin/mashboard-integrations/google-analytics.php:85
+msgid "Reauthorize"
+msgstr ""
+
+#: templates/default/admin/facebook.php:105
+#: templates/default/admin/google-analytics.php:116
+#: templates/default/admin/mashboard-integrations/facebook.php:75
+#: templates/default/admin/mashboard-integrations/google-analytics.php:84
+msgid ""
+"Sorry, an error occurred that requires you to reauthorize/reauthenticate "
+"with Google. This is likely due to either an expired access token, you "
+"removed the application from your account, or you logged out of your account "
+"and your session expired. Please click the button below to continue."
+msgstr ""
+
+#: templates/default/admin/facebook.php:110
+#: templates/default/admin/facebook.php:113
+#: templates/default/admin/google-adwords.php:139
+#: templates/default/admin/google-adwords.php:142
+#: templates/default/admin/google-analytics.php:121
+#: templates/default/admin/google-analytics.php:124
+#: templates/default/admin/mailchimp.php:142
+#: templates/default/admin/mailchimp.php:145
+#: templates/default/admin/mashboard-integrations/facebook.php:80
+#: templates/default/admin/mashboard-integrations/facebook.php:83
+#: templates/default/admin/mashboard-integrations/google-adwords.php:86
+#: templates/default/admin/mashboard-integrations/google-adwords.php:89
+#: templates/default/admin/mashboard-integrations/google-analytics.php:89
+#: templates/default/admin/mashboard-integrations/google-analytics.php:92
+#: templates/default/admin/mashboard-integrations/mailchimp.php:95
+#: templates/default/admin/mashboard-integrations/mailchimp.php:98
+#: templates/default/admin/mashboard-integrations/twitter.php:90
+#: templates/default/admin/mashboard-integrations/twitter.php:94
+#: templates/default/admin/twitter.php:159
+#: templates/default/admin/twitter.php:163
+msgid "Deauthorize"
+msgstr ""
+
+#: templates/default/admin/facebook.php:111
+#: templates/default/admin/mashboard-integrations/facebook.php:81
+msgid ""
+"Purge all Facebook authentication and cache data from your local install."
+msgstr ""
+
+#: templates/default/admin/facebook.php:117
+#: templates/default/admin/facebook.php:119
+#: templates/default/admin/google-adwords.php:130
+#: templates/default/admin/google-adwords.php:133
+#: templates/default/admin/google-analytics.php:109
+#: templates/default/admin/google-analytics.php:111
+#: templates/default/admin/mailchimp.php:133
+#: templates/default/admin/mailchimp.php:136
+#: templates/default/admin/mashboard-integrations/facebook.php:87
+#: templates/default/admin/mashboard-integrations/facebook.php:89
+#: templates/default/admin/mashboard-integrations/google-adwords.php:79
+#: templates/default/admin/mashboard-integrations/google-adwords.php:81
+#: templates/default/admin/mashboard-integrations/google-analytics.php:77
+#: templates/default/admin/mashboard-integrations/google-analytics.php:79
+#: templates/default/admin/mashboard-integrations/mailchimp.php:88
+#: templates/default/admin/mashboard-integrations/mailchimp.php:90
+#: templates/default/admin/mashboard-integrations/twitter.php:99
+#: templates/default/admin/mashboard-integrations/twitter.php:102
+#: templates/default/admin/twitter.php:150
+#: templates/default/admin/twitter.php:154
+msgid "Setup"
+msgstr ""
+
+#: templates/default/admin/facebook.php:118
+#: templates/default/admin/mashboard-integrations/facebook.php:88
+msgid ""
+"Click the button below to Login to Facebook and allow the application to "
+"access your page(s) insights. You will then be able to see data for your "
+"page(s). Please make sure you login with an account that has access to at "
+"least one page's insights."
+msgstr ""
+
+#: templates/default/admin/facebook.php:138
+#: templates/default/admin/mashboard-integrations/facebook.php:109
+msgid ""
+"Total number of people who have liked your page during this period. This "
+"metric is updated every 24 hours."
+msgstr ""
+
+#: templates/default/admin/facebook.php:146
+#: templates/default/admin/mashboard-integrations/facebook.php:117
+msgid "total likes at the end of the previous period."
+msgstr ""
+
+#: templates/default/admin/facebook.php:155
+#: templates/default/admin/mashboard-integrations/facebook.php:127
+msgid ""
+"The number of people who have seen any content associated with your page "
+"during this period. This metric is updated every 24 hours."
+msgstr ""
+
+#: templates/default/admin/facebook.php:163
+#: templates/default/admin/mashboard-integrations/facebook.php:135
+msgid "total reach during the previous period."
+msgstr ""
+
+#: templates/default/admin/facebook.php:172
+#: templates/default/admin/mashboard-integrations/facebook.php:144
+msgid ""
+"Total amount of page visits by all users during this period. This metric is "
+"updated every 24 hours."
+msgstr ""
+
+#: templates/default/admin/facebook.php:180
+#: templates/default/admin/mashboard-integrations/facebook.php:152
+msgid "page visits during the previous period."
+msgstr ""
+
+#: templates/default/admin/facebook.php:189
+#: templates/default/admin/mashboard-integrations/facebook.php:161
+msgid ""
+"The unique number of people who liked, commented on, shared, or clicked on "
+"your posts during this period. This metric is updated every 24 hours."
+msgstr ""
+
+#: templates/default/admin/facebook.php:197
+#: templates/default/admin/mashboard-integrations/facebook.php:169
+msgid "people were engaged during the previous period."
+msgstr ""
+
+#: templates/default/admin/facebook.php:209
+msgid "Top 5 Posts"
+msgstr ""
+
+#: templates/default/admin/facebook.php:211
+#: templates/default/admin/google-adwords.php:308
+#: templates/default/admin/google-adwords.php:335
+#: templates/default/admin/google-analytics.php:260
+#: templates/default/admin/google-analytics.php:280
+#: templates/default/admin/google-analytics.php:302
+#: templates/default/admin/google-analytics.php:322
+#: templates/default/admin/mailchimp.php:305
+#: templates/default/admin/mailchimp.php:328
+#: templates/default/admin/twitter.php:349
+#: templates/default/admin/twitter.php:372
+#: templates/default/admin/twitter.php:397
+#: templates/default/admin/twitter.php:421
+msgid "No data available for this period."
+msgstr ""
+
+#: templates/default/admin/facebook.php:216
+msgid "Name"
+msgstr ""
+
+#: templates/default/admin/facebook.php:217
+msgid "Likes"
+msgstr ""
+
+#: templates/default/admin/facebook.php:218
+msgid "Reach"
+msgstr ""
+
+#: templates/default/admin/facebook.php:219
+msgid "Comments"
+msgstr ""
+
+#: templates/default/admin/facebook.php:220
+msgid "Date"
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:39
+#: templates/default/admin/mashboard-integrations/google-adwords.php:13
+msgid "Configure Settings for Google Adwords"
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:40
+#: templates/default/admin/mashboard-integrations/google-adwords.php:15
+msgid "Show/Hide Google Adwords Data Points"
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:45
+#: templates/default/admin/google-adwords.php:96
+#: templates/default/admin/google-adwords.php:160
+#: templates/default/admin/google-adwords.php:314
+#: templates/default/admin/google-adwords.php:342
+#: templates/default/admin/mailchimp.php:51
+#: templates/default/admin/mailchimp.php:104
+#: templates/default/admin/mailchimp.php:180
+#: templates/default/admin/mailchimp.php:312
+#: templates/default/admin/mashboard-integrations/google-adwords.php:27
+#: templates/default/admin/mashboard-integrations/google-adwords.php:108
+#: templates/default/admin/mashboard-integrations/mailchimp.php:27
+msgid "Clicks"
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:51
+#: templates/default/admin/google-adwords.php:98
+#: templates/default/admin/google-adwords.php:177
+#: templates/default/admin/google-adwords.php:317
+#: templates/default/admin/google-adwords.php:345
+#: templates/default/admin/mashboard-integrations/google-adwords.php:33
+#: templates/default/admin/mashboard-integrations/google-adwords.php:126
+msgid "Avg. CPC"
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:57
+#: templates/default/admin/google-adwords.php:195
+#: templates/default/admin/google-adwords.php:318
+#: templates/default/admin/google-adwords.php:346
+#: templates/default/admin/mashboard-integrations/google-adwords.php:21
+#: templates/default/admin/mashboard-integrations/google-adwords.php:144
+msgid "Cost"
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:63
+#: templates/default/admin/google-adwords.php:213
+#: templates/default/admin/google-adwords.php:315
+#: templates/default/admin/google-adwords.php:343
+msgid "Impressions"
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:69
+#: templates/default/admin/google-adwords.php:230
+msgid "Click Through Rate"
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:75
+#: templates/default/admin/google-adwords.php:247
+#: templates/default/admin/google-adwords.php:319
+#: templates/default/admin/google-adwords.php:347
+#: templates/default/admin/mashboard-integrations/google-adwords.php:39
+#: templates/default/admin/mashboard-integrations/google-adwords.php:162
+msgid "Conversions"
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:81
+#: templates/default/admin/google-adwords.php:264
+msgid "Cost / Conv"
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:103
+#: templates/default/admin/mailchimp.php:109
+#: templates/default/admin/twitter.php:123
+msgid "Loading"
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:113
+#: templates/default/admin/mashboard-integrations/google-adwords.php:63
+msgid "Select an Account"
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:114
+#: templates/default/admin/mashboard-integrations/google-adwords.php:64
+msgid ""
+"Select an account from the list below. The account's campaigns will then be "
+"loaded for you."
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:120
+#: templates/default/admin/mashboard-integrations/google-adwords.php:70
+msgid "Select a Campaign"
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:121
+#: templates/default/admin/mashboard-integrations/google-adwords.php:71
+msgid ""
+"Select \"All Data\" to see data for all your account's active campaigns."
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:122
+#: templates/default/admin/mashboard-integrations/google-adwords.php:72
+#, php-format
+msgid ""
+"<a href=\"%s\">Upgrade to Premium</a> to be able to see data for individual "
+"campaigns."
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:131
+#: templates/default/admin/mashboard-integrations/google-adwords.php:80
+msgid ""
+"Click the button below to login to Google and allow the application to "
+"access your account(s) and campaign(s). You will then be able to select a "
+"campaign to display data for. Please make sure you login with an account "
+"that has setup at least one campaign."
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:140
+#: templates/default/admin/mashboard-integrations/google-adwords.php:87
+msgid ""
+"Purge all Google Adwords authentication and cache data from your local "
+"install."
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:161
+#: templates/default/admin/mashboard-integrations/google-adwords.php:109
+msgid ""
+"Total number of times this campaign ad's have been clicked during this "
+"period."
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:169
+#: templates/default/admin/mailchimp.php:189
+#: templates/default/admin/mashboard-integrations/google-adwords.php:117
+msgid "Clicks were made during the previous period."
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:178
+#: templates/default/admin/mashboard-integrations/google-adwords.php:127
+msgid "The Average Cost Per Click (cost ÷ clicks) during this period."
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:187
+#: templates/default/admin/mashboard-integrations/google-adwords.php:136
+msgid "was the Average Cost Per Click in the previous period."
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:196
+#: templates/default/admin/mashboard-integrations/google-adwords.php:145
+msgid "The total cost of this campaign during this period."
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:205
+#: templates/default/admin/mashboard-integrations/google-adwords.php:154
+msgid "was the Cost during the previous period."
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:214
+msgid ""
+"The total number of times this campaign's ads have been displayed during "
+"this period."
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:222
+msgid "Impressions were made in the previous period."
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:231
+msgid ""
+"A ratio showing how often people who see your ad(s) end up clicking them "
+"(clicks ÷ impressions)."
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:239
+msgid "was the Click Through Rate in the previous period."
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:248
+#: templates/default/admin/mashboard-integrations/google-adwords.php:163
+msgid ""
+"Total number of clicks that have resulted in some action you have defined (e."
+"g. a sale) to your website during this period."
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:256
+#: templates/default/admin/mashboard-integrations/google-adwords.php:171
+msgid "Conversions were made in the previous period."
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:265
+msgid ""
+"The Average Cost Per Conversion during this period (total cost ÷ total "
+"conversions)."
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:274
+msgid "was the Average Cost Per Conversion during the previous period."
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:282
+#: templates/default/admin/google-analytics.php:70
+#: templates/default/admin/google-analytics.php:218
+#: templates/default/admin/mashboard-integrations/google-analytics.php:33
+#: templates/default/admin/mashboard-integrations/google-analytics.php:145
+msgid "Bounce Rate"
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:283
+msgid ""
+"Bounce Rate is the percentage of single-page sessions (i.e. sessions in "
+"which the person left your site from the entrance page without interacting "
+"with the page)."
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:291
+msgid "was the Bounce Rate during the previous period."
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:304
+msgid "Campaigns"
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:305
+#: templates/default/admin/google-adwords.php:332
+msgid "The Bounce Rate over the current period."
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:313
+#: templates/default/admin/google-adwords.php:341
+#: templates/default/admin/mailchimp.php:310
+msgid "Campaign Name"
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:316
+#: templates/default/admin/google-adwords.php:344
+msgid "CTR"
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:331
+msgid "Top Keyword Performance"
+msgstr ""
+
+#: templates/default/admin/google-adwords.php:340
+#: templates/default/admin/google-analytics.php:265
+msgid "Keyword"
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:38
+#: templates/default/admin/mashboard-integrations/google-analytics.php:13
+msgid "Configure Settings for Google Analytics"
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:40
+#: templates/default/admin/mashboard-integrations/google-analytics.php:15
+msgid "Show/Hide Google Analytics Data Points"
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:46
+#: templates/default/admin/google-analytics.php:131
+#: templates/default/admin/google-analytics.php:150
+#: templates/default/admin/mashboard-integrations/google-analytics.php:21
+#: templates/default/admin/mashboard-integrations/google-analytics.php:110
+#: templates/default/admin/settings.php:69
+msgid "Users"
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:52
+#: templates/default/admin/google-analytics.php:133
+#: templates/default/admin/google-analytics.php:167
+#: templates/default/admin/mashboard-integrations/google-analytics.php:27
+#: templates/default/admin/mashboard-integrations/google-analytics.php:128
+msgid "Page Views"
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:58
+#: templates/default/admin/google-analytics.php:184
+msgid "Pages Per Visit"
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:64
+msgid "Average Visit Duration"
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:76
+#: templates/default/admin/google-analytics.php:235
+#: templates/default/admin/mashboard-integrations/google-analytics.php:39
+#: templates/default/admin/mashboard-integrations/google-analytics.php:158
+msgid "Search Engine Visits"
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:95
+#: templates/default/admin/mashboard-integrations/google-analytics.php:63
+msgid "No Profiles Found"
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:96
+#: templates/default/admin/mashboard-integrations/google-analytics.php:64
+msgid ""
+"No profiles found. Please try refreshing the page or deauthorizing below, "
+"then reauthorize with a Google Analytics account which has access to at "
+"least one profile."
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:100
+#: templates/default/admin/mashboard-integrations/google-analytics.php:68
+msgid "Select a Profile"
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:101
+#: templates/default/admin/mashboard-integrations/google-analytics.php:69
+msgid ""
+"Select a profile from the list below to display data for. If you see any "
+"profile named \"All Website Data\", you can change this from within Google "
+"Analytics to make it easier to select a profile."
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:103
+#: templates/default/admin/mashboard-integrations/google-analytics.php:71
+msgid "Select Profile"
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:110
+#: templates/default/admin/mashboard-integrations/google-analytics.php:78
+msgid ""
+"Click the button below to login to Google and allow the application to "
+"access your profile(s) analytics. You will then be able to see data for your "
+"profile(s). Please make sure you login with an account that has access to at "
+"least one profile's analytics."
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:122
+#: templates/default/admin/mashboard-integrations/google-analytics.php:90
+msgid ""
+"Purge all Google Analytics authentication and cache data from your local "
+"install."
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:151
+#: templates/default/admin/mashboard-integrations/google-analytics.php:111
+msgid ""
+"Users that have had at least one session within the selected date range. "
+"Includes both new and returning users."
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:159
+#: templates/default/admin/mashboard-integrations/google-analytics.php:119
+msgid "users visited your website during the previous period."
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:168
+#: templates/default/admin/mashboard-integrations/google-analytics.php:129
+msgid "Total number of page views during this period."
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:176
+#: templates/default/admin/mashboard-integrations/google-analytics.php:137
+msgid "page views on your website during the previous period."
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:185
+msgid ""
+"The average number of pages viewed per session. Repeated page views are also "
+"included."
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:193
+msgid "was the average of page visits during a session in the previous period."
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:201
+msgid "Average Visit Duration (min:sec)"
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:202
+msgid ""
+"The average duration your website users were actively engaged with your "
+"site, during the selected period."
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:210
+msgid "was the average visit duration during the previous period."
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:219
+msgid ""
+"Bounce Rate is the percentage of single-page visits (i.e. visits in which "
+"the person left your site from the entrance page without interacting with "
+"the page)."
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:227
+msgid "single-page visits during the previous period."
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:236
+#: templates/default/admin/mashboard-integrations/google-analytics.php:159
+msgid "Total number of visits to your website from any search engine."
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:244
+#: templates/default/admin/mashboard-integrations/google-analytics.php:167
+msgid "search engine visits to your website during the previous period."
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:258
+msgid "Top 5 Keywords"
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:266
+#: templates/default/admin/google-analytics.php:286
+#: templates/default/admin/google-analytics.php:308
+#: templates/default/admin/google-analytics.php:328
+msgid "Sessions"
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:278
+msgid "Top 5 Search Engine Referrals"
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:285
+msgid "Search Engine"
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:300
+msgid "Top 5 Landing Pages"
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:307
+msgid "URL"
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:320
+msgid "Top 5 Visitor Locations"
+msgstr ""
+
+#: templates/default/admin/google-analytics.php:327
+msgid "Country"
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:39
+#: templates/default/admin/mashboard-integrations/mailchimp.php:13
+msgid "Configure Settings for MailChimp"
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:40
+#: templates/default/admin/mashboard-integrations/mailchimp.php:15
+msgid "Show/Hide MailChimp Data Points"
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:45
+#: templates/default/admin/mailchimp.php:102
+#: templates/default/admin/mailchimp.php:163
+#: templates/default/admin/mailchimp.php:311
+#: templates/default/admin/mashboard-integrations/mailchimp.php:21
+msgid "Opens"
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:57
+#: templates/default/admin/mailchimp.php:197
+#: templates/default/admin/mailchimp.php:313
+#: templates/default/admin/mashboard-integrations/mailchimp.php:33
+#: templates/default/admin/mashboard-integrations/mailchimp.php:152
+msgid "Unsubscribed"
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:63
+#: templates/default/admin/mailchimp.php:214
+#: templates/default/admin/mailchimp.php:336
+#: templates/default/admin/mashboard-integrations/mailchimp.php:39
+#: templates/default/admin/mashboard-integrations/mailchimp.php:169
+msgid "Subscribers"
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:69
+#: templates/default/admin/mailchimp.php:231
+#: templates/default/admin/mailchimp.php:314
+#: templates/default/admin/mashboard-integrations/mailchimp.php:45
+#: templates/default/admin/mashboard-integrations/mailchimp.php:186
+msgid "Open Rate"
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:75
+#: templates/default/admin/mailchimp.php:248
+#: templates/default/admin/mailchimp.php:315
+#: templates/default/admin/mashboard-integrations/mailchimp.php:51
+#: templates/default/admin/mashboard-integrations/mailchimp.php:203
+msgid "Click Rate"
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:81
+msgid "Industry Average Open Rate"
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:87
+#: templates/default/admin/mailchimp.php:282
+msgid "Bounced"
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:119
+#: templates/default/admin/mashboard-integrations/mailchimp.php:75
+#: templates/default/admin/mashboard-integrations/twitter.php:73
+#: templates/default/admin/twitter.php:133
+msgid "Valid Access Token"
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:120
+#: templates/default/admin/mashboard-integrations/mailchimp.php:76
+msgid ""
+"This means everything is working correctly and you haven't revoked the "
+"SkyStats MailChimp application's access to your MailChimp account."
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:121
+#: templates/default/admin/mashboard-integrations/mailchimp.php:77
+msgid ""
+"If you want to go back to your data, click the Settings icon again. If you "
+"want to use a different account, you'll need to Deauthorize."
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:126
+#: templates/default/admin/mashboard-integrations/mailchimp.php:82
+#: templates/default/admin/mashboard-integrations/twitter.php:79
+#: templates/default/admin/twitter.php:139
+msgid "Invalid Access Token"
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:127
+#: templates/default/admin/mashboard-integrations/mailchimp.php:83
+msgid ""
+"This means you have either revoked the SkyStats application's access to your "
+"MailChimp account manually, it was invalidated by MailChimp, or you "
+"deauthorized"
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:134
+#: templates/default/admin/mashboard-integrations/mailchimp.php:89
+msgid ""
+"Click the button below to login to your MailChimp account and authorize the "
+"SkyStats application to allow us to display data for your campaigns."
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:143
+#: templates/default/admin/mashboard-integrations/mailchimp.php:96
+msgid ""
+"Purge all MailChimp authentication and cache data from your local install."
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:164
+#: templates/default/admin/mashboard-integrations/mailchimp.php:118
+msgid ""
+"The total number of unique subscribers who opened your campaigns during this "
+"period."
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:172
+msgid "Opens were made during the previous period."
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:181
+#: templates/default/admin/mashboard-integrations/mailchimp.php:136
+msgid ""
+"The total number of unique clicks for links across your campaigns during "
+"this period."
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:198
+#: templates/default/admin/mashboard-integrations/mailchimp.php:153
+msgid "The total number of users who unsubscribed during this period."
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:206
+#: templates/default/admin/mashboard-integrations/mailchimp.php:161
+msgid "users unsubscribed in the previous period."
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:215
+#: templates/default/admin/mashboard-integrations/mailchimp.php:170
+msgid ""
+"Total number of subscribers your campaigns were sent to during this period "
+"(whether successful or not)"
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:223
+msgid "Subscribers were made during the previous period."
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:232
+#: templates/default/admin/mashboard-integrations/mailchimp.php:187
+msgid ""
+"Percentage of successfully delivered campaigns that registered as an open "
+"during this period."
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:240
+#: templates/default/admin/mashboard-integrations/mailchimp.php:195
+msgid "was the Open Rate during the previous period."
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:249
+#: templates/default/admin/mashboard-integrations/mailchimp.php:204
+msgid ""
+"Percentage of successfully delivered campaigns that registered a click "
+"during this period."
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:257
+#: templates/default/admin/mashboard-integrations/mailchimp.php:212
+msgid "was the Click Rate during the previous period."
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:265
+msgid "Industry Avg Open Rate"
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:266
+msgid ""
+"Average percentage of opens for campaigns in the selected industry set for "
+"your account."
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:274
+msgid "was the Industry Average Open Rate in the previous period."
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:283
+msgid ""
+"Total number of recipients that registered as a hard or soft bounce for your "
+"campaigns during this period."
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:291
+msgid "Bounces were registered during the previous period."
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:303
+msgid "Top 5 Campaigns"
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:316
+msgid "Date Sent"
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:326
+msgid "Top 5 Lists"
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:333
+msgid "List Name"
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:334
+msgid "Avg. Open Rate"
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:335
+msgid "Avg. Click Rate"
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:337
+msgid "Avg. Subscribe Rate"
+msgstr ""
+
+#: templates/default/admin/mailchimp.php:338
+msgid "Avg. Unsubscribe Rate"
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/facebook.php:178
+msgid "View detailed information about your Facebook page."
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/facebook.php:179
+#: templates/default/admin/mashboard-integrations/google-adwords.php:181
+#: templates/default/admin/mashboard-integrations/google-analytics.php:177
+#: templates/default/admin/mashboard-integrations/mailchimp.php:222
+#: templates/default/admin/mashboard-integrations/twitter.php:226
+msgid "View Details"
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/google-adwords.php:180
+msgid "View detailed information about your Google Adwords campaign."
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/google-analytics.php:146
+msgid ""
+"Bounce Rate is the percentage of single-page visits (i.e. visits in which "
+"the person left your site from the entrance page without interacting with "
+"the page). The values shown here are rounded to save space. Take a look at "
+"the Google Analytics detail page for the precise values."
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/google-analytics.php:176
+msgid "View detailed information about your Google Analytics profile."
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/mailchimp.php:117
+msgid "Unique Opens"
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/mailchimp.php:126
+msgid "Unique Opens were made during the previous period."
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/mailchimp.php:135
+msgid "Unique Clicks"
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/mailchimp.php:144
+msgid "Unique Clicks were made in the previous period."
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/mailchimp.php:178
+msgid ""
+"was the total number of Subscribers your campaigns were sent to during the "
+"previous period."
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/mailchimp.php:221
+msgid "View detailed information about your MailChimp campaigns."
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:13
+#: templates/default/admin/twitter.php:39
+msgid "Configure Settings for Twitter"
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:16
+#: templates/default/admin/twitter.php:40
+msgid "Show/Hide Twitter Data Points"
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:23
+#: templates/default/admin/mashboard-integrations/twitter.php:190
+#: templates/default/admin/twitter.php:45
+#: templates/default/admin/twitter.php:249
+msgid "Tweets"
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:29
+#: templates/default/admin/mashboard-integrations/twitter.php:207
+#: templates/default/admin/twitter.php:51
+#: templates/default/admin/twitter.php:266
+msgid "Following"
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:35
+#: templates/default/admin/twitter.php:57
+msgid "Followers"
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:41
+#: templates/default/admin/mashboard-integrations/twitter.php:121
+#: templates/default/admin/twitter.php:63
+#: templates/default/admin/twitter.php:116
+#: templates/default/admin/twitter.php:181
+#: templates/default/admin/twitter.php:356
+#: templates/default/admin/twitter.php:405
+#: templates/default/admin/twitter.php:427
+msgid "Favorites"
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:47
+#: templates/default/admin/mashboard-integrations/twitter.php:156
+#: templates/default/admin/twitter.php:69
+#: templates/default/admin/twitter.php:215
+#: templates/default/admin/twitter.php:355
+#: templates/default/admin/twitter.php:378
+#: templates/default/admin/twitter.php:404
+msgid "Retweets"
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:53
+#: templates/default/admin/mashboard-integrations/twitter.php:139
+#: templates/default/admin/twitter.php:75
+#: templates/default/admin/twitter.php:118
+#: templates/default/admin/twitter.php:198
+msgid "Mentions"
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:74
+msgid ""
+"This means everything is working correctly and you haven't revoked the "
+"SkyStats Twitter application's access to your Twitter account."
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:75
+#: templates/default/admin/twitter.php:135
+msgid ""
+"You don't need to deauthorize. Data will continue to be collected for you "
+"each day."
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:80
+#: templates/default/admin/twitter.php:140
+msgid ""
+"This means you have either revoked the SkyStats Twitter application's access "
+"to your Twitter account, or your access token has expired. You will need to "
+"deauthorize below, to remove all cached data."
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:84
+#: templates/default/admin/twitter.php:144
+msgid "Rate Limit Reached"
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:85
+#: templates/default/admin/twitter.php:145
+msgid ""
+"This means everything is working correctly, but you'll need to wait before "
+"querying for new results. Please try again. If the problem continues, you'll "
+"need to wait at least 15 minutes before querying for new results."
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:91
+#: templates/default/admin/twitter.php:160
+msgid ""
+"Purge all Twitter authentication and cache data from your local install."
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:92
+#: templates/default/admin/twitter.php:161
+msgid "All data that was collected will also be deleted."
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:100
+#: templates/default/admin/twitter.php:151
+msgid ""
+"Click the button below to login to Twitter and authorize the application."
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:101
+#: templates/default/admin/twitter.php:152
+msgid ""
+"Note: Full historical data for Twitter is not available. Data will be "
+"collected for you each day after you setup the integration and until you "
+"deauthorize."
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:122
+#: templates/default/admin/twitter.php:182
+msgid ""
+"Total number of your tweets that have been favorited by other users, during "
+"the selected period."
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:130
+#: templates/default/admin/twitter.php:190
+msgid ""
+"is the amount of times your Tweets have been favorited, by other users, "
+"during the previous period."
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:140
+#: templates/default/admin/twitter.php:199
+msgid ""
+"Total number of times other users have mentioned you in a tweet, during the "
+"selected period."
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:148
+#: templates/default/admin/twitter.php:207
+msgid ""
+"is the amount of times you were mentioned in a tweet, by another user, in "
+"the previous period."
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:157
+#: templates/default/admin/twitter.php:216
+msgid ""
+"Total number of your tweets that have been retweeted by other users, during "
+"the selected period."
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:165
+#: templates/default/admin/twitter.php:224
+msgid ""
+"is the amount of times your tweets were retweeted, by other users, during "
+"the previous period."
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:173
+#: templates/default/admin/twitter.php:232
+msgid "New Followers"
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:174
+#: templates/default/admin/twitter.php:233
+msgid "Total number of users who have followed you during the selected period."
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:182
+#: templates/default/admin/twitter.php:241
+msgid "people followed you in the previous period."
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:191
+#: templates/default/admin/twitter.php:250
+msgid ""
+"Total number of tweets posted to Twitter, including retweets and replies, "
+"during the selected period."
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:199
+#: templates/default/admin/twitter.php:258
+msgid "tweets were posted by you in the previous period."
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:208
+#: templates/default/admin/twitter.php:267
+msgid "Total number of users you have followed during the selected period."
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:216
+#: templates/default/admin/twitter.php:275
+msgid "is the amount of people you followed in the previous period."
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/twitter.php:225
+msgid "View detailed information about your Twitter account."
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/upgrading.php:11
+msgid "Premium Features"
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/upgrading.php:22
+msgid "Want to remove this?"
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/upgrading.php:23
+msgid "Upgrade to SkyStats Premium &raquo;"
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/vote.php:11
+msgid "Vote"
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/vote.php:17
+msgid "Don't see an integration you want?"
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/vote.php:19
+msgid "Click to vote for an integration."
+msgstr ""
+
+#: templates/default/admin/mashboard-integrations/vote.php:21
+msgid "or Leave A Review."
+msgstr ""
+
+#: templates/default/admin/settings.php:20
+msgid "License"
+msgstr ""
+
+#: templates/default/admin/settings.php:26
+msgid "License Key"
+msgstr ""
+
+#: templates/default/admin/settings.php:29
+#, php-format
+msgid ""
+"Don't have a license key yet? Click <a href=\"%s\">here</a> to purchase a "
+"free or premium license key."
+msgstr ""
+
+#: templates/default/admin/settings.php:38
+msgid "Validate"
+msgstr ""
+
+#: templates/default/admin/settings.php:46
+msgid ""
+"Make your changes below then click \"Save Settings\" at the bottom of the "
+"page. You will need to refresh the page to see some of your changes."
+msgstr ""
+
+#: templates/default/admin/settings.php:50
+msgid "Stats Access"
+msgstr ""
+
+#: templates/default/admin/settings.php:52
+msgid "Roles"
+msgstr ""
+
+#: templates/default/admin/settings.php:55
+msgid ""
+"Select which roles are allowed to see and access the Mashboard and detail "
+"pages."
+msgstr ""
+
+#: templates/default/admin/settings.php:56
+msgid "Click here to select a role"
+msgstr ""
+
+#: templates/default/admin/settings.php:67
+msgid "Settings Access"
+msgstr ""
+
+#: templates/default/admin/settings.php:71
+msgid ""
+"Select which users are allowed to view and edit the Settings.  "
+"Administrators have access to both stats and settings by default but when "
+"adding users be sure to include your own user so you don't accidentally lock "
+"yourself out of the settings."
+msgstr ""
+
+#: templates/default/admin/settings.php:88
+msgid "Click here to select a user"
+msgstr ""
+
+#: templates/default/admin/settings.php:98
+msgid "Default Dashboard"
+msgstr ""
+
+#: templates/default/admin/settings.php:99
+msgid ""
+"Select whether users are sent to the SkyStats Mashboard or the WordPress "
+"Dashboard when they login."
+msgstr ""
+
+#: templates/default/admin/settings.php:104
+msgid "WordPress Dashboard"
+msgstr ""
+
+#: templates/default/admin/settings.php:111
+msgid "Caching"
+msgstr ""
+
+#: templates/default/admin/settings.php:112
+msgid ""
+"Select whether you would like to used a cached version of the data for your "
+"integrations if it is available, which dramatically increases the "
+"performance of the requests."
+msgstr ""
+
+#: templates/default/admin/settings.php:117
+msgid "Enabled"
+msgstr ""
+
+#: templates/default/admin/settings.php:120
+msgid "Disabled"
+msgstr ""
+
+#: templates/default/admin/settings.php:127
+msgid ""
+"Settings saved successfully. You will need to reload the page to see some of "
+"your changes."
+msgstr ""
+
+#: templates/default/admin/settings.php:131
+msgid "Save Settings"
+msgstr ""
+
+#: templates/default/admin/twitter.php:81
+#: templates/default/admin/twitter.php:283
+msgid "Current Tweets"
+msgstr ""
+
+#: templates/default/admin/twitter.php:87
+#: templates/default/admin/twitter.php:294
+msgid "Current Retweets"
+msgstr ""
+
+#: templates/default/admin/twitter.php:93
+#: templates/default/admin/twitter.php:305
+msgid "Current Following"
+msgstr ""
+
+#: templates/default/admin/twitter.php:99
+#: templates/default/admin/twitter.php:316
+msgid "Current Followers"
+msgstr ""
+
+#: templates/default/admin/twitter.php:105
+#: templates/default/admin/twitter.php:327
+msgid "Current Mentions"
+msgstr ""
+
+#: templates/default/admin/twitter.php:134
+msgid ""
+"This means everything is working successfully and you haven't revoked the "
+"SkyStats Twitter application's access to your Twitter account."
+msgstr ""
+
+#: templates/default/admin/twitter.php:284
+msgid "Total amount of tweets you have posted."
+msgstr ""
+
+#: templates/default/admin/twitter.php:295
+msgid "Total amount of retweets you have made."
+msgstr ""
+
+#: templates/default/admin/twitter.php:306
+msgid "Total amount of users you are following."
+msgstr ""
+
+#: templates/default/admin/twitter.php:317
+msgid "Total amount of users who are following you."
+msgstr ""
+
+#: templates/default/admin/twitter.php:328
+msgid ""
+"Total amount of times you have been mentioned in a tweet by another user."
+msgstr ""
+
+#: templates/default/admin/twitter.php:345
+msgid "Top 5 Tweets"
+msgstr ""
+
+#: templates/default/admin/twitter.php:346
+msgid "Top 5 latest tweets out of your 200 most recent tweets."
+msgstr ""
+
+#: templates/default/admin/twitter.php:354
+#: templates/default/admin/twitter.php:377
+#: templates/default/admin/twitter.php:403
+#: templates/default/admin/twitter.php:426
+msgid "Text"
+msgstr ""
+
+#: templates/default/admin/twitter.php:368
+msgid "Top 5 Retweets"
+msgstr ""
+
+#: templates/default/admin/twitter.php:369
+msgid ""
+"Top 5 latest retweets out of the 100 most recent retweets of your tweets."
+msgstr ""
+
+#: templates/default/admin/twitter.php:393
+msgid "Top 5 Mentions"
+msgstr ""
+
+#: templates/default/admin/twitter.php:394
+msgid ""
+"Top 5 latest mentions out of the 200 most recent mentions of your screen "
+"name."
+msgstr ""
+
+#: templates/default/admin/twitter.php:402
+msgid "User"
+msgstr ""
+
+#: templates/default/admin/twitter.php:417
+msgid "Top 5 Favorites"
+msgstr ""
+
+#: templates/default/admin/twitter.php:418
+msgid "Your top 5 latest favourites out of your 200 most recent favourites."
+msgstr ""
